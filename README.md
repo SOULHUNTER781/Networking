@@ -7,4 +7,4 @@ the response accordingly.
 
 Invoke program as
 
-./filename.py -url <URL>
+./filename.py -url your_url
